@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python , Java , Javascript , HTML , CSS
 - 🌱 I’m currently learning  Python , Java , Javascript , HTML , CSS
 - 💞️ I’m looking to collaborate on projects related to  Python , Java , Javascript , HTML , CSS
-- 📫 How to reach me - You can reach me on my Email address - vipgamerff@gmail.com
+- 📫 How to reach me - You can reach me on my Email address - themusicalguyy@gmail.com
 
 <!---
 AnkushGuha/AnkushGuha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
